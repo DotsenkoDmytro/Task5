@@ -1,0 +1,4 @@
+/home/lapochka/CLionProjects/Task5_5/cmake-build-debug/CMakeFiles/Task5_5.dir
+/home/lapochka/CLionProjects/Task5_5/cmake-build-debug/CMakeFiles/child.dir
+/home/lapochka/CLionProjects/Task5_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lapochka/CLionProjects/Task5_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
